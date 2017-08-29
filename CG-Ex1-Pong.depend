@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1504007342 source:/mnt/home/Google_Drive/UNIFESP/10-SEMESTRE/COMP-GRAFICA/CODIGOS-CG/CG-Ex1/CG-Ex1-Pong/main.c
+	<stdio.h>
+	<stdlib.h>
+	<GL/glut.h>
+	"Ex1_Pong.h"
+
+1503963962 /mnt/home/Google_Drive/UNIFESP/10-SEMESTRE/COMP-GRAFICA/CODIGOS-CG/CG-Ex1/CG-Ex1-Pong/Ex1_Pong.h
+
+1504007225 source:/mnt/home/Google_Drive/UNIFESP/10-SEMESTRE/COMP-GRAFICA/CODIGOS-CG/CG-Ex1/CG-Ex1-Pong/Ex1_Pong.c
+	<stdlib.h>
+	<stdio.h>
+	<GL/glut.h>
+
