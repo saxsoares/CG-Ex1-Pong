@@ -12,16 +12,18 @@
 	<stdio.h>
 	<GL/glut.h>
 
-1504307972 source:/mnt/disco1/Google_Drive/UNIFESP/10-SEMESTRE/COMP-GRAFICA/CODIGOS-CG/CG-Ex1/CG-Ex1-Pong/main.c
+1504450283 source:/mnt/disco1/Google_Drive/UNIFESP/10-SEMESTRE/COMP-GRAFICA/CODIGOS-CG/CG-Ex1/CG-Ex1-Pong/main.c
 	<stdio.h>
 	<stdlib.h>
 	<GL/glut.h>
 	"Ex1_Pong.h"
 
-1503963962 /mnt/disco1/Google_Drive/UNIFESP/10-SEMESTRE/COMP-GRAFICA/CODIGOS-CG/CG-Ex1/CG-Ex1-Pong/Ex1_Pong.h
+1504446589 /mnt/disco1/Google_Drive/UNIFESP/10-SEMESTRE/COMP-GRAFICA/CODIGOS-CG/CG-Ex1/CG-Ex1-Pong/Ex1_Pong.h
+	<GL/glut.h>
 
-1504309956 source:/mnt/disco1/Google_Drive/UNIFESP/10-SEMESTRE/COMP-GRAFICA/CODIGOS-CG/CG-Ex1/CG-Ex1-Pong/Ex1_Pong.c
+1504450045 source:/mnt/disco1/Google_Drive/UNIFESP/10-SEMESTRE/COMP-GRAFICA/CODIGOS-CG/CG-Ex1/CG-Ex1-Pong/Ex1_Pong.c
 	<stdlib.h>
 	<stdio.h>
 	<GL/glut.h>
+	"Ex1_Pong.h"
 
